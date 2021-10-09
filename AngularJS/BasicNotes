@@ -1,0 +1,3 @@
+install  node.js first
+npm install npm@latest -g  // to update  with latest feature
+
