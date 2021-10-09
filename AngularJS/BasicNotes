@@ -1,3 +1,10 @@
 install  node.js first
 npm install npm@latest -g  // to update  with latest feature
+install visual studio 
+goto preference and add more extention related angular js by searching angular  there . 
+install typscript and cli -
+npm install -g typescript
+npm install -g @angular/cli
+npm -v 
+
 
